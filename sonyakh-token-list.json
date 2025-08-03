@@ -1,0 +1,38 @@
+{
+  "name": "Sonyakh Token List",
+  "logoURI": "https://example.com/list-logo.png",
+  "tags": {
+    "meme": {
+      "name": "Meme Tokens",
+      "description": "Токени, створені для розваги та ком’юніті."
+    },
+    "community": {
+      "name": "Community Tokens",
+      "description": "Токени для об'єднання спільнот."
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-03T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8PqTJ7YvrfzziVKQ1Wuocmk1ccF5GvosaC248gxDPjYC",
+      "symbol": "SNKH",
+      "name": "Sonyakh Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://bafybeiern2mdpdj5nsrl3h2hlnbdmepbk2jrtauvkpyv5jbfr6s76b6jwm",
+      "tags": [
+        "meme",
+        "community"
+      ],
+      "extensions": {
+        "website": "https://t.me/sonyakhfan",
+        "description": "Сонях Коінт – це мем-монета на блокчейні Солана. Створена на честь Сонях Коінта як символ сили, тепла та свободи. Він об'єднує ком'юнті довкола позитиву, творчості і децентралізованих цінностей."
+      }
+    }
+  ]
+}

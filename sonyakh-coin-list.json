@@ -1,0 +1,35 @@
+{
+  "name": "Sonyakh Coin List",
+  "logoURI": "https://raw.githubusercontent.com/SonyakhCoin/Sonyakh-Coin-list/main/logo.png",
+  "tags": {
+    "meme": {
+      "name": "Meme",
+      "description": "Meme coins and community tokens"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8PqTJ7YvrfzziVKQ1Wuocmk1ccF5GvosaC248gxDPjYC",
+      "symbol": "SNKH",
+      "name": "Sonyakh Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SonyakhCoin/Sonyakh-Coin-list/main/logo.png",
+      "tags": [
+        "meme"
+      ],
+      "extensions": {
+        "website": "https://sonyakhcoin.xyz",
+        "twitter": "https://twitter.com/sonyakhcoin",
+        "telegram": "https://t.me/sonyakhfan",
+        "description": "Сонях Коін – це мем-монета на блокчейні Solana. Символ тепла, свободи та сили української спільноти."
+      }
+    }
+  ]
+}

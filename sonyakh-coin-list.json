@@ -1,6 +1,6 @@
 {
   "name": "Sonyakh Coin List",
-  "logoURI": "https://raw.githubusercontent.com/SonyakhCoin/Sonyakh-Coin-list/main/logo.png",
+  "logoURI": "https://ipfs.io/raw.githubusercontent.com/SonyakhCoin/Sonyakh-Coin-list/main/logo.png",
   "tags": {
     "meme": {
       "name": "Meme",
@@ -20,7 +20,7 @@
       "symbol": "SNKH",
       "name": "Sonyakh Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SonyakhCoin/Sonyakh-Coin-list/main/logo.png",
+      "logoURI": "https://ipfs.io/raw.githubusercontent.com/SonyakhCoin/Sonyakh-Coin-list/main/logo.png",
       "tags": [
         "meme"
       ],

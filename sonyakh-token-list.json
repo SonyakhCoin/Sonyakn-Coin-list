@@ -1,6 +1,6 @@
 {
   "name": "Sonyakh Token List",
-  "logoURI": "ipfs://bafybeiern2mdpdj5nsrl3h2hlnbdmepbk2jrtauvkpyv5jbfr6s76b6jwm",
+  "logoURI": "https://ipfs://bafybeiern2mdpdj5nsrl3h2hlnbdmepbk2jrtauvkpyv5jbfr6s76b6jwm",
   "tags": {
     "meme": {
       "name": "Meme Tokens",
@@ -24,7 +24,7 @@
       "symbol": "SNKH",
       "name": "Sonyakh Coin",
       "decimals": 6,
-      "logoURI": "ipfs://bafybeiern2mdpdj5nsrl3h2hlnbdmepbk2jrtauvkpyv5jbfr6s76b6jwm",
+      "logoURI": "https://ipfs://bafybeiern2mdpdj5nsrl3h2hlnbdmepbk2jrtauvkpyv5jbfr6s76b6jwm",
       "tags": [
         "meme",
         "community"
